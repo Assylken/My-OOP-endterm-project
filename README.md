@@ -1,7 +1,7 @@
 # My-OOP-endterm-project
-School System with Application class and DataBase
-Hello everyone, this is my OOP endterm project. This is school system. Here you can evaluate my code, this code performs the following functions
-We have a menu: 
+School System with Application class and DataBase<br>
+Hello everyone, this is my OOP endterm project. This is school system. Here you can evaluate my code, this code performs the following functions<br>
+We have a menu: <br>
 1 - Admin
 2 - Student
 3 - Teacher 
